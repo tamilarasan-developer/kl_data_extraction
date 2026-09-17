@@ -1,0 +1,79 @@
+[
+    {
+        "escom_name": "BESCOM",
+        "bio_mass": 10,
+        "cogen": 11,
+        "mini_hydro": 0,
+        "wind": 465,
+        "solar": 1371,
+        "total": 1819,
+        "date_time": "2026-09-17 10:15:00",
+        "updated_time": "2026-09-17 10:26:11"
+    },
+    {
+        "escom_name": "MESCOM",
+        "bio_mass": 0,
+        "cogen": 0,
+        "mini_hydro": 53,
+        "wind": 4,
+        "solar": 0,
+        "total": 58,
+        "date_time": "2026-09-17 10:15:00",
+        "updated_time": "2026-09-17 10:26:11"
+    },
+    {
+        "escom_name": "CESC",
+        "bio_mass": 1,
+        "cogen": 52,
+        "mini_hydro": 95,
+        "wind": 0,
+        "solar": 253,
+        "total": 400,
+        "date_time": "2026-09-17 10:15:00",
+        "updated_time": "2026-09-17 10:26:11"
+    },
+    {
+        "escom_name": "GESCOM",
+        "bio_mass": 0,
+        "cogen": 42,
+        "mini_hydro": 22,
+        "wind": 182,
+        "solar": 1819,
+        "total": 1982,
+        "date_time": "2026-09-17 10:15:00",
+        "updated_time": "2026-09-17 10:26:11"
+    },
+    {
+        "escom_name": "HESCOM",
+        "bio_mass": 0,
+        "cogen": 15,
+        "mini_hydro": 0,
+        "wind": 326,
+        "solar": 621,
+        "total": 872,
+        "date_time": "2026-09-17 10:15:00",
+        "updated_time": "2026-09-17 10:26:11"
+    },
+    {
+        "escom_name": "PAVAGADA SOLAR PARK",
+        "bio_mass": null,
+        "cogen": null,
+        "mini_hydro": null,
+        "wind": null,
+        "solar": 1274,
+        "total": null,
+        "date_time": "2026-09-17 10:15:00",
+        "updated_time": "2026-09-17 10:16:06"
+    },
+    {
+        "escom_name": "TOTAL_IPPS",
+        "bio_mass": 12,
+        "cogen": 125,
+        "mini_hydro": 171,
+        "wind": 977,
+        "solar": 5407,
+        "total": 6699,
+        "date_time": "2026-09-17 10:15:00",
+        "updated_time": "2026-09-17 10:26:11"
+    }
+]
