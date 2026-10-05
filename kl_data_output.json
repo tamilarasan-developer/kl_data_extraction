@@ -1,58 +1,58 @@
 [
     {
         "escom_name": "BESCOM",
-        "bio_mass": 10,
-        "cogen": 11,
-        "mini_hydro": 0,
-        "wind": 465,
-        "solar": 1371,
-        "total": 1819,
-        "date_time": "2026-09-17 10:15:00",
-        "updated_time": "2026-09-17 10:26:11"
+        "bio_mass": 0,
+        "cogen": 12,
+        "mini_hydro": 7,
+        "wind": 74,
+        "solar": 1036,
+        "total": 1085,
+        "date_time": "2026-10-05 10:00:00",
+        "updated_time": "2026-10-05 10:07:07"
     },
     {
         "escom_name": "MESCOM",
         "bio_mass": 0,
         "cogen": 0,
-        "mini_hydro": 53,
-        "wind": 4,
+        "mini_hydro": 64,
+        "wind": 0,
         "solar": 0,
-        "total": 58,
-        "date_time": "2026-09-17 10:15:00",
-        "updated_time": "2026-09-17 10:26:11"
+        "total": 65,
+        "date_time": "2026-10-05 10:00:00",
+        "updated_time": "2026-10-05 10:07:07"
     },
     {
         "escom_name": "CESC",
-        "bio_mass": 1,
-        "cogen": 52,
-        "mini_hydro": 95,
-        "wind": 0,
-        "solar": 253,
-        "total": 400,
-        "date_time": "2026-09-17 10:15:00",
-        "updated_time": "2026-09-17 10:26:11"
+        "bio_mass": 2,
+        "cogen": 56,
+        "mini_hydro": 49,
+        "wind": 4,
+        "solar": 246,
+        "total": 359,
+        "date_time": "2026-10-05 10:00:00",
+        "updated_time": "2026-10-05 10:07:07"
     },
     {
         "escom_name": "GESCOM",
-        "bio_mass": 0,
-        "cogen": 42,
-        "mini_hydro": 22,
-        "wind": 182,
-        "solar": 1819,
-        "total": 1982,
-        "date_time": "2026-09-17 10:15:00",
-        "updated_time": "2026-09-17 10:26:11"
+        "bio_mass": 1,
+        "cogen": 92,
+        "mini_hydro": 9,
+        "wind": 87,
+        "solar": 1666,
+        "total": 1771,
+        "date_time": "2026-10-05 10:00:00",
+        "updated_time": "2026-10-05 10:07:07"
     },
     {
         "escom_name": "HESCOM",
         "bio_mass": 0,
-        "cogen": 15,
+        "cogen": 2,
         "mini_hydro": 0,
-        "wind": 326,
-        "solar": 621,
-        "total": 872,
-        "date_time": "2026-09-17 10:15:00",
-        "updated_time": "2026-09-17 10:26:11"
+        "wind": 240,
+        "solar": 813,
+        "total": 974,
+        "date_time": "2026-10-05 10:00:00",
+        "updated_time": "2026-10-05 10:07:07"
     },
     {
         "escom_name": "PAVAGADA SOLAR PARK",
@@ -60,20 +60,20 @@
         "cogen": null,
         "mini_hydro": null,
         "wind": null,
-        "solar": 1274,
+        "solar": 1473,
         "total": null,
-        "date_time": "2026-09-17 10:15:00",
-        "updated_time": "2026-09-17 10:16:06"
+        "date_time": "2026-10-05 10:00:00",
+        "updated_time": "2026-10-05 10:02:04"
     },
     {
         "escom_name": "TOTAL_IPPS",
-        "bio_mass": 12,
-        "cogen": 125,
-        "mini_hydro": 171,
-        "wind": 977,
-        "solar": 5407,
-        "total": 6699,
-        "date_time": "2026-09-17 10:15:00",
-        "updated_time": "2026-09-17 10:26:11"
+        "bio_mass": 3,
+        "cogen": 153,
+        "mini_hydro": 130,
+        "wind": 407,
+        "solar": 5243,
+        "total": 5950,
+        "date_time": "2026-10-05 10:00:00",
+        "updated_time": "2026-10-05 10:07:07"
     }
 ]
